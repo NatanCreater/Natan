@@ -1,0 +1,59 @@
+body{
+
+background-color: rgb(224, 169, 28);
+
+}
+
+.table{
+    width: 2500px;
+}
+
+.imagen1{
+    width: 50%;
+}
+
+.mododepreparo1{
+    font-size: 175%;
+}
+
+h1{
+    color: rgb(157, 97, 25);
+}
+
+.tamanho{
+    font-size: 250%;
+}
+
+.center1{
+    width: 200%;
+}
+
+h2{
+
+color: rgb(236, 233, 17);
+
+}
+
+form.form-example {
+    display: table;
+  }
+  
+  div.form-example {
+    display: table-row;
+  }
+  
+  label,
+  input {
+    display: table-cell;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    padding-right: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
